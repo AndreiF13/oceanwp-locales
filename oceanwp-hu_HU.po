@@ -1,0 +1,1390 @@
+# Translation of Themes - OceanWP in Hungarian
+# This file is distributed under the same license as the Themes - OceanWP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Themes - OceanWP\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-11-24 10:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: inc/template-helpers.php:721
+msgid "Delete this comment"
+msgstr "Hozzászólás törlése"
+
+#: inc/oceanwp-strings.php:136
+msgctxt "Aria label: post comments"
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: inc/oceanwp-strings.php:114
+msgid "Read more about"
+msgstr "Tovább olvasom"
+
+#: inc/oceanwp-strings.php:53
+msgid "Search this website"
+msgstr "Keresés az oldalon"
+
+#. translators: 1: post reading time.
+#: inc/helpers.php:3332
+msgid "%1$s mins read"
+msgstr "%1$s perc olvasás"
+
+#: comments.php:44 inc/customizer/options/blog.php:1793
+msgid "Comment"
+msgstr "Hozzászólás"
+
+#: inc/helpers.php:3446
+msgid "Enter your name or username to comment"
+msgstr "Írja be a nevét vagy felhasználónevét hozzászólás írásához"
+
+#: inc/helpers.php:3448
+msgid "Enter your email address to comment"
+msgstr "Írja be az email címét hozzászólás írásához"
+
+#: comments.php:104 comments.php:117
+msgid "Next comment"
+msgstr "Következő komment"
+
+#: partials/entry/meta.php:55 partials/single/meta.php:71
+msgid "Post comments:"
+msgstr "Bejegyzések hozzászólásai:"
+
+#: comments.php:103 comments.php:116
+msgid "Previous comment"
+msgstr "Előző hozzászólás"
+
+#: inc/customizer/options/page-settings.php:1920
+msgid "Shop Page"
+msgstr "Üzlet oldal"
+
+#: inc/customizer/options/page-settings.php:1899
+msgid "Blog Page"
+msgstr "Blog oldal"
+
+#: inc/customizer/options/page-settings.php:1646
+#: inc/customizer/options/page-settings.php:1776
+#: inc/customizer/options/page-settings.php:1777
+#: inc/customizer/options/styles-and-settings.php:1251
+#: inc/customizer/options/styles-and-settings.php:2055
+#: inc/customizer/options/styles-and-settings.php:2303
+#: inc/customizer/options/topbar.php:885
+msgid "Text"
+msgstr "Szöveg"
+
+#: inc/customizer/options/page-settings.php:1823
+msgid "Breadcrumb Separator"
+msgstr "Breadcrumb elválasztó"
+
+#: inc/customizer/options/page-settings.php:1400
+msgid "Enable Breadcrumbs"
+msgstr "Breadcrumbs engedélyezése"
+
+#: inc/customizer/options/edd.php:1082 inc/customizer/options/edd.php:2339
+#: inc/customizer/options/learndash.php:212
+#: inc/customizer/options/learndash.php:373
+#: inc/customizer/options/learndash.php:534
+#: inc/customizer/options/lifterlms.php:350
+#: inc/customizer/options/lifterlms.php:511
+#: inc/customizer/options/lifterlms.php:672
+#: inc/customizer/options/page-settings.php:2268
+#: inc/customizer/options/woocommerce.php:2009
+#: inc/customizer/options/woocommerce.php:5463
+msgid "Sidebar / Content"
+msgstr "Oldalsáv / Tartalom"
+
+#: inc/customizer/options/edd.php:1081 inc/customizer/options/edd.php:2338
+#: inc/customizer/options/learndash.php:211
+#: inc/customizer/options/learndash.php:372
+#: inc/customizer/options/learndash.php:533
+#: inc/customizer/options/lifterlms.php:349
+#: inc/customizer/options/lifterlms.php:510
+#: inc/customizer/options/lifterlms.php:671
+#: inc/customizer/options/page-settings.php:2267
+#: inc/customizer/options/woocommerce.php:2008
+#: inc/customizer/options/woocommerce.php:5462
+msgid "Content / Sidebar"
+msgstr "Tartalom / Oldalsáv"
+
+#: inc/customizer/options/page-settings.php:2257
+msgid "Mobile Sidebar Order"
+msgstr "Mobil oldalsáv sorrend"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:451 inc/customizer/options/page-settings.php:1989
+msgid "Search results for"
+msgstr "A keresés eredménye a következőhöz"
+
+#: inc/customizer/options/learndash.php:561
+msgid "Table"
+msgstr "Tábla"
+
+#: inc/customizer/options/learndash.php:569
+msgid "Heading Color"
+msgstr "Fejléc szín"
+
+#: inc/customizer/options/learndash.php:594
+msgid "Heading Background Color"
+msgstr "Fejléc háttérszín"
+
+#: inc/customizer/options/learndash.php:619
+msgid "Item Color"
+msgstr "Elem színe"
+
+#: inc/woocommerce/woocommerce-config.php:874
+msgid "View products"
+msgstr "A termékek megtekintése"
+
+#: inc/customizer/options/woocommerce.php:9278
+#: inc/customizer/options/woocommerce.php:9279
+msgid "Side by Side"
+msgstr "Egymás mellett"
+
+#: inc/customizer/options/woocommerce.php:9273
+#: inc/customizer/options/woocommerce.php:9274
+msgid "Original"
+msgstr "Eredeti"
+
+#: inc/customizer/options/woocommerce.php:9262
+msgid "Login/Register Style"
+msgstr "Bejelentkezési/Regisztrált Stílus"
+
+#: inc/customizer/options/woocommerce.php:9252
+msgid "My Account Page"
+msgstr "Saját Fiók Oldalam"
+
+#: inc/woocommerce/woocommerce-config.php:2258
+msgid "Sale!"
+msgstr "Eladás!"
+
+#. translators: %s: author name for link aria label.
+#. translators: %s: author name for link meta.
+#. translators: %s: post reading time.
+#. translators: %s: list of post categories.
+#. translators: %s: list of post tags.
+#: inc/template-helpers.php:73 inc/template-helpers.php:79
+#: inc/template-helpers.php:235 inc/template-helpers.php:272
+#: inc/template-helpers.php:314 inc/woocommerce/woocommerce-config.php:2254
+#: inc/customizer/assets/dist/index.js:1 inc/customizer/assets/dist/index.js:2
+#: inc/customizer/assets/dist/index.js:3 inc/customizer/assets/dist/index.js:4
+#: inc/customizer/assets/dist/index.js:5
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2486
+msgid "%s is a required field."
+msgstr "%s kötelező mező."
+
+#. translators: 1: state field 2: valid states
+#: inc/woocommerce/woocommerce-config.php:2479
+msgid "%1$s is not valid. Please enter one of the following: %2$s"
+msgstr "%1$s nem érvényes. Kérjük, írd be az alábbiak egyikét: %2$s"
+
+#. translators: %s: email address
+#: inc/woocommerce/woocommerce-config.php:2459
+msgid "%s is not a valid email address."
+msgstr "%s nem érvényes email cím."
+
+#. translators: %s: phone number
+#: inc/woocommerce/woocommerce-config.php:2450
+msgid "%s is not a valid phone number."
+msgstr "%s nem érvényes telefonszám."
+
+#: inc/woocommerce/woocommerce-config.php:2441
+msgid "%s is not a valid postcode / ZIP."
+msgstr "%s nem érvényes irányítószám/ZIP."
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2432
+msgid "Billing %s"
+msgstr "Számlázás %s"
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2428
+msgid "Shipping %s"
+msgstr "Szállítás %s"
+
+#: inc/oceanwp-strings.php:105
+msgid "Previous Product"
+msgstr "Előző Termék"
+
+#: inc/customizer/options/lifterlms.php:708
+msgid "Courses/Memberships"
+msgstr "Tanfolyamok/Tagságok"
+
+#: inc/customizer/options/lifterlms.php:528
+#: inc/customizer/options/lifterlms.php:1513
+msgid "Lesson"
+msgstr "Lecke"
+
+#: inc/customizer/options/learndash.php:229
+#: inc/customizer/options/lifterlms.php:367
+#: inc/customizer/options/lifterlms.php:1281
+msgid "Course"
+msgstr "Tanfolyam"
+
+#: inc/customizer/options/learndash.php:68
+#: inc/customizer/options/lifterlms.php:206
+msgid "Global"
+msgstr "Globális"
+
+#: inc/customizer/options/lifterlms.php:155
+msgid "Syllabus"
+msgstr "Tanterv"
+
+#: inc/customizer/options/lifterlms.php:154
+msgid "Progress"
+msgstr "Haladás"
+
+#: inc/customizer/options/lifterlms.php:143
+msgid "Course Details"
+msgstr "Tanfolyam Részletei"
+
+#: inc/customizer/options/lifterlms.php:94
+msgid "Membership Columns"
+msgstr "Tagsági Oszlopok"
+
+#: inc/customizer/options/lifterlms.php:54
+msgid "Courses Columns"
+msgstr "Tanfolyamok Oszlopok"
+
+#: inc/customizer/options/learndash.php:24
+#: inc/customizer/options/lifterlms.php:35
+msgid "Distraction Free Learning"
+msgstr "Őrült Ingyenes Tanulás"
+
+#: inc/customizer/options/options.php:92
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/oceanwp-strings.php:104
+msgid "Next Product"
+msgstr "Következő Termék"
+
+#: inc/third/class-lifterlms.php:439
+msgid "LifterLMS Buy Button"
+msgstr "LifterLMS Vásárlás Gomb"
+
+#: inc/third/class-lifterlms.php:428
+msgid "LifterLMS Lesson Title"
+msgstr "LifterLMS Lecke Címe"
+
+#: inc/third/class-lifterlms.php:417
+msgid "LifterLMS Section Title"
+msgstr "LifterLMS Rész Címe"
+
+#: inc/customizer/options/blog.php:55 inc/customizer/options/blog.php:1920
+#: inc/customizer/options/edd.php:970 inc/customizer/options/edd.php:2227
+#: inc/customizer/options/learndash.php:100
+#: inc/customizer/options/learndash.php:261
+#: inc/customizer/options/learndash.php:422
+#: inc/customizer/options/lifterlms.php:238
+#: inc/customizer/options/lifterlms.php:399
+#: inc/customizer/options/lifterlms.php:560
+#: inc/customizer/options/page-settings.php:41
+#: inc/customizer/options/page-settings.php:2111
+#: inc/customizer/options/page-settings.php:2415
+#: inc/customizer/options/woocommerce.php:1897
+#: inc/customizer/options/woocommerce.php:5351
+#: inc/third/class-lifterlms.php:312
+msgid "Both Sidebar"
+msgstr "Mindkét Oldalsáv"
+
+#: inc/third/class-lifterlms.php:298
+msgid "OceanWP Theme Setting"
+msgstr "OceanWP Téma Beállítása"
+
+#: inc/customizer/options/lifterlms.php:1477
+msgid "Section Title Background"
+msgstr "Szakaszcím Háttér"
+
+#: inc/customizer/options/lifterlms.php:1451
+msgid "Section Title Color"
+msgstr "Szakaszcím Szín"
+
+#: inc/customizer/options/learndash.php:707
+#: inc/customizer/options/lifterlms.php:1426
+msgid "Progress Bar Color"
+msgstr "Progress Bar Szín"
+
+#: inc/third/class-lifterlms.php:406
+msgid "LifterLMS Course/Lesson Title"
+msgstr "LifterLMS Tanfolyam/Lecke Cím"
+
+#: inc/customizer/options/lifterlms.php:1314
+msgid "Sub Title Color"
+msgstr "Felirat Szín"
+
+#: inc/customizer/options/lifterlms.php:1244
+msgid "Meta Color"
+msgstr "Meta Szín"
+
+#: inc/customizer/options/lifterlms.php:1218
+#: inc/customizer/options/lifterlms.php:1401
+msgid "Author Color"
+msgstr "Szerző Színe"
+
+#: inc/customizer/options/edd.php:1926
+#: inc/customizer/options/woocommerce.php:3829 inc/edd/edd-helpers.php:210
+msgid "Add to Cart"
+msgstr "Kosárba"
+
+#: inc/edd/edd-helpers.php:204
+msgid "View Details"
+msgstr "Részletek Megtekintése"
+
+#: inc/edd/edd-config.php:533
+msgid "EDD Product Add To Cart"
+msgstr "EDD termék Hozzáadás a kosárhoz"
+
+#: inc/edd/edd-config.php:523
+msgid "EDD Product Price"
+msgstr "EDD Termék Ára"
+
+#: inc/edd/edd-config.php:512
+msgid "EDD Product Title"
+msgstr "EDD Termék Címe"
+
+#: inc/edd/edd-config.php:128
+msgid "EDD Sidebar"
+msgstr "EDD Oldalsáv"
+
+#: inc/customizer/options/edd.php:2364
+msgid "Display Add to Cart Button"
+msgstr "Megjelenítés A Kosárba Gomb"
+
+#: inc/customizer/options/edd.php:1226 inc/customizer/options/edd.php:1227
+msgid "Options"
+msgstr "Opciók"
+
+#: inc/customizer/options/edd.php:1221 inc/customizer/options/edd.php:1222
+msgid "Button"
+msgstr "Gomb"
+
+#: inc/customizer/options/edd.php:1210
+msgid "Variable Product Button"
+msgstr "Változó Termék Gomb"
+
+#: inc/customizer/options/edd.php:779
+msgid "Subtotal Border Color"
+msgstr "Részösszeg Határ Szín"
+
+#: inc/customizer/options/edd.php:725
+#: inc/customizer/options/woocommerce.php:1363
+msgid "Subtotal Background Color"
+msgstr "Részösszeg Háttér Szín"
+
+#: inc/customizer/options/edd.php:633
+msgid "Product Title Color"
+msgstr "Termék Cím Szín"
+
+#: inc/customizer/options/edd.php:42
+msgid "Custom EDD Sidebar"
+msgstr "Egyéni EDD Oldalsáv"
+
+#: inc/customizer/options/options.php:80
+msgid "Easy Digital Downloads"
+msgstr "Könnyű Digitális Letöltések"
+
+#: inc/customizer/options/woocommerce.php:7323
+msgid "Section"
+msgstr "Szekció"
+
+#: inc/customizer/options/woocommerce.php:6566
+#: inc/customizer/options/woocommerce.php:6567
+msgid "Very Big"
+msgstr "Nagyon Nagy"
+
+#: inc/customizer/options/woocommerce.php:6561
+#: inc/customizer/options/woocommerce.php:6562
+msgid "Big"
+msgstr "Nagy"
+
+#: inc/customizer/options/woocommerce.php:6545
+msgid "Add To Cart Button Style"
+msgstr "Hozzáadjuk a Kosárba Teszem Gomb Stílust"
+
+#: inc/customizer/options/edd.php:167 inc/customizer/options/edd.php:168
+#: inc/customizer/options/woocommerce.php:765
+#: inc/customizer/options/woocommerce.php:766
+msgid "Bag Style"
+msgstr "Táska stílusa"
+
+#: inc/customizer/options/typography.php:44
+msgid "Enable Google Fonts"
+msgstr "Google Fonts kikapcsolása"
+
+#: inc/customizer/options/header.php:5402
+msgid "Menu / Logo / Cart"
+msgstr "Link / logó / kosár"
+
+#: inc/customizer/options/header.php:5401
+msgid "Cart / Logo / Menu"
+msgstr "Kosár / logó / link"
+
+#: inc/customizer/options/header.php:5400
+msgid "Logo / Cart / Menu"
+msgstr "Logó / kosár / link"
+
+#: inc/customizer/options/seo.php:164
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: inc/customizer/options/seo.php:153
+msgid "Facebook Page URL"
+msgstr "Facebook oldal URL"
+
+#: inc/customizer/options/seo.php:114
+msgid "Enable OpenGraph"
+msgstr "OpenGraph engedélyezése"
+
+#: inc/customizer/options/header.php:2486
+msgid "Content After Header"
+msgstr "Tartalom a Fejléc után"
+
+#: inc/customizer/options/edd.php:119
+#: inc/customizer/options/woocommerce.php:717
+msgid "Display Cart When Product Added"
+msgstr "Megjelenítő kosár, amikor a termék hozzá van adva"
+
+#: inc/customizer/options/edd.php:120
+#: inc/customizer/options/woocommerce.php:718
+msgid "Display the cart when a product is added, work in the shop and the single product pages if ajax is enabled."
+msgstr "A kosár megjelenítése, ha egy termék hozzá van adva a boltban, és az egyes termékoldalakon van dolgozva, ha az ajax engedélyezve van."
+
+#: inc/customizer/options/woocommerce.php:604
+msgid "Wishlist"
+msgstr "Kívánság lista"
+
+#: inc/customizer/options/styles-and-settings.php:1894
+#: inc/customizer/options/styles-and-settings.php:2277
+#: woocommerce/quick-view-image.php:59
+msgid "Placeholder"
+msgstr "Helyettesítő szöveg"
+
+#: woocommerce/checkout/form-multistep-checkout.php:96
+msgid "Prev"
+msgstr "Előző"
+
+#: woocommerce/checkout/form-multistep-checkout.php:93
+msgid "Back to cart"
+msgstr "Vissza a kosárhoz"
+
+#: woocommerce/checkout/form-multistep-checkout.php:53
+msgid "You must be logged in before proceeding to checkout."
+msgstr "Be kell jelentkezni a vásárlási folyamat elkezdéséhez."
+
+#: woocommerce/checkout/form-multistep-checkout.php:26
+msgid "If you have already registered, please, enter your details in the boxes below. If you are a new customer, please, go to the Billing &amp; Shipping section."
+msgstr "Ha már regisztrált, kérjük adja meg adatait az alábbi dobozokban. Ha új vásárló, kérjük menjen a számlázás és szállítás szekcióhoz."
+
+#: woocommerce/checkout/checkout-timeline.php:65
+msgid "Payment Info"
+msgstr "Fizetési információ"
+
+#: woocommerce/checkout/checkout-timeline.php:58
+msgid "Shipping"
+msgstr "Szállítás"
+
+#: woocommerce/checkout/checkout-timeline.php:51
+msgid "Billing"
+msgstr "Számlázás"
+
+#: woocommerce/cart/mini-cart.php:119
+msgid "No products in the cart."
+msgstr "Nincs termék a kosárban."
+
+#. translators: %s is the product name
+#: woocommerce/cart/mini-cart.php:79
+msgid "Remove this item"
+msgstr "Elem eltávolítása"
+
+#: inc/woocommerce/woocommerce-config.php:2310
+msgid "Register"
+msgstr "Regisztráció"
+
+#: inc/woocommerce/woocommerce-config.php:2308
+msgid "Or"
+msgstr "Vagy"
+
+#: inc/woocommerce/woocommerce-config.php:2295
+#: woocommerce/checkout/checkout-timeline.php:43
+msgid "Login"
+msgstr "Bejelentkezés"
+
+#: inc/oceanwp-strings.php:101
+msgid "Select Options"
+msgstr "Opciók választása"
+
+#: inc/oceanwp-strings.php:103
+msgid "Out of stock"
+msgstr "Nincs készleten"
+
+#: inc/oceanwp-strings.php:102
+msgid "Selected:"
+msgstr "Kiválasztva:"
+
+#: inc/woocommerce/woocommerce-config.php:868
+msgid "View cart"
+msgstr "Kosár megtekintése"
+
+#: inc/customizer/options/woocommerce.php:4075 inc/oceanwp-strings.php:99
+msgid "Quick View"
+msgstr "Gyors nézet"
+
+#: inc/customizer/options/woocommerce.php:7738
+msgid "Floating Bar"
+msgstr "Lebegő sáv"
+
+#: inc/customizer/options/woocommerce.php:7747
+msgid "Display Floating Bar"
+msgstr "Lebegő sáv megjelenítése"
+
+#: inc/customizer/options/woocommerce.php:6502
+#: inc/customizer/options/woocommerce.php:6503
+#: inc/customizer/options/woocommerce.php:7321
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#: inc/customizer/options/woocommerce.php:6525
+msgid "Enable Ajax Add To Cart"
+msgstr "Ajax kosárhoz adás engedélyezése"
+
+#: inc/customizer/options/edd.php:2353
+#: inc/customizer/options/woocommerce.php:5479
+msgid "Display Product Navigation"
+msgstr "Terméknavigáció megjelenítése"
+
+#: inc/customizer/options/woocommerce.php:4954 inc/helpers.php:4062
+#: inc/woocommerce/woocommerce-config.php:1013
+msgid "Filter"
+msgstr "Szűrő"
+
+#: inc/customizer/options/woocommerce.php:1787
+msgid "Divider Color"
+msgstr "Elválasztó színe"
+
+#: inc/customizer/options/edd.php:524 inc/customizer/options/edd.php:525
+#: inc/customizer/options/woocommerce.php:1123
+#: inc/customizer/options/woocommerce.php:1124
+msgid "Spacious"
+msgstr "Tágas"
+
+#: inc/customizer/options/edd.php:519 inc/customizer/options/edd.php:520
+#: inc/customizer/options/woocommerce.php:1118
+#: inc/customizer/options/woocommerce.php:1119
+msgid "Compact"
+msgstr "Kompakt"
+
+#: inc/customizer/options/woocommerce.php:9185
+msgid "Percentage"
+msgstr "Százalék"
+
+#: inc/customizer/options/woocommerce.php:9168
+msgid "Circle"
+msgstr "Kör"
+
+#: inc/customizer/options/woocommerce.php:8499
+#: inc/customizer/options/woocommerce.php:8500
+#: inc/customizer/options/woocommerce.php:9167
+msgid "Square"
+msgstr "Négyzet"
+
+#: inc/woocommerce/woocommerce-config.php:2589
+msgid "WooCommerce Product Price"
+msgstr "WooCommerce termék ár"
+
+#: inc/customizer/options/woocommerce.php:5177
+msgid "Pagination Style"
+msgstr "Lapszámozás stílusa"
+
+#: inc/customizer/options/header.php:2736
+msgid "Select a retina logo twice the normal logo size."
+msgstr "Válassza retina-logót a normál logó méretének kétszeresére."
+
+#: inc/walker/menu-walker.php:305
+msgid "Latest in"
+msgstr "Legutoljára ebben"
+
+#: inc/woocommerce/woocommerce-config.php:2599
+msgid "WooCommerce Product Add To Cart"
+msgstr "WooCommerce terméket adja a kosárhoz"
+
+#: inc/customizer/options/edd.php:1948
+#: inc/customizer/options/styles-and-settings.php:960
+#: inc/customizer/options/styles-and-settings.php:1597
+#: inc/customizer/options/woocommerce.php:3851
+#: inc/customizer/options/woocommerce.php:6603
+msgid "Dotted"
+msgstr "Pöttyös"
+
+#: inc/customizer/options/edd.php:1947
+#: inc/customizer/options/styles-and-settings.php:961
+#: inc/customizer/options/styles-and-settings.php:1598
+#: inc/customizer/options/woocommerce.php:3850
+#: inc/customizer/options/woocommerce.php:6602
+msgid "Dashed"
+msgstr "Szaggatott"
+
+#: inc/customizer/options/edd.php:1946
+#: inc/customizer/options/styles-and-settings.php:963
+#: inc/customizer/options/styles-and-settings.php:1600
+#: inc/customizer/options/woocommerce.php:3849
+#: inc/customizer/options/woocommerce.php:6601
+msgid "Double"
+msgstr "Dupla"
+
+#: inc/customizer/options/edd.php:1945
+#: inc/customizer/options/styles-and-settings.php:962
+#: inc/customizer/options/styles-and-settings.php:1599
+#: inc/customizer/options/woocommerce.php:3848
+#: inc/customizer/options/woocommerce.php:6600
+msgid "Solid"
+msgstr "Egyszerű"
+
+#: inc/customizer/helpers.php:216
+msgid "Select Your Menu"
+msgstr "Menüválasztás"
+
+#: inc/customizer/options/header.php:5417
+msgid "Select a custom responsive logo for tablet and mobile."
+msgstr "Reagáló logó választása tablethoz és mobilhoz."
+
+#: inc/customizer/options/header.php:4633 inc/customizer/options/topbar.php:314
+msgid "Social Menu"
+msgstr "Közösségi menü"
+
+#: inc/customizer/options/header.php:4641 inc/customizer/options/topbar.php:322
+msgid "Enable Social Menu"
+msgstr "Közösségi menü engedélyezés"
+
+#: inc/customizer/options/edd.php:1996
+#: inc/customizer/options/woocommerce.php:3899
+#: inc/customizer/options/woocommerce.php:5505
+#: inc/customizer/options/woocommerce.php:6651
+msgid "Border Radius"
+msgstr "Szegély: Sugár"
+
+#: inc/customizer/options/edd.php:1959
+#: inc/customizer/options/styles-and-settings.php:980
+#: inc/customizer/options/styles-and-settings.php:2997
+#: inc/customizer/options/woocommerce.php:3862
+#: inc/customizer/options/woocommerce.php:6614
+msgid "Border Width"
+msgstr "Szegély szélesség"
+
+#: inc/customizer/options/header.php:1282
+msgid "Display Search Form"
+msgstr "Keresés cella megjelenítése"
+
+#: inc/customizer/options/header.php:1175
+msgid "Logo Position"
+msgstr "Logó pozíció"
+
+#: inc/customizer/options/header.php:964
+msgid "Closed Header"
+msgstr "Fejrész lezárva"
+
+#: inc/customizer/options/header.php:942
+msgid "Add Header Shadow"
+msgstr "Adjon árnyékot a fejrészhez"
+
+#: inc/customizer/options/header.php:921
+msgid "Vertical Header Settings"
+msgstr "A fejrész függőleges beállításai"
+
+#: inc/customizer/options/header.php:582
+msgid "Left Menu"
+msgstr "Bal menü"
+
+#: inc/customizer/options/header.php:537
+msgid "Retina Logo (optional)"
+msgstr "Retina logó (választható)"
+
+#: inc/customizer/options/header.php:390 inc/customizer/options/header.php:560
+#: inc/customizer/options/header.php:635 inc/customizer/options/header.php:930
+msgid "Add Transparent Header"
+msgstr "Adjon hozzá átlátszó fejrészt"
+
+#: inc/customizer/options/woocommerce.php:6507
+#: inc/customizer/options/woocommerce.php:6508
+#: inc/customizer/options/woocommerce.php:7322
+msgid "Vertical"
+msgstr "Függőleges"
+
+#: inc/customizer/options/header.php:551
+msgid "Center Header Settings"
+msgstr "Középső fejrész beállításai"
+
+#: inc/customizer/options/header.php:787
+msgid "Menus Position"
+msgstr "Menü pozíciója"
+
+#: inc/customizer/options/styles-and-settings.php:252
+msgid "Widget Padding"
+msgstr "Modul távolság"
+
+#: inc/customizer/options/styles-and-settings.php:212
+msgid "Content Padding"
+msgstr "Tartalmak távolsága"
+
+#: inc/customizer/options/styles-and-settings.php:48
+msgid "Separate"
+msgstr "Elválasztás"
+
+#: inc/customizer/options/blog.php:757
+#: inc/customizer/options/woocommerce.php:5204 inc/helpers.php:3583
+#: inc/woocommerce/woocommerce-config.php:613
+msgid "End of content"
+msgstr "A tartalom vége"
+
+#: inc/customizer/options/blog.php:769
+#: inc/customizer/options/woocommerce.php:5216 inc/helpers.php:3588
+#: inc/woocommerce/woocommerce-config.php:618
+msgid "No more pages to load"
+msgstr "Nincs további oldal"
+
+#: inc/customizer/options/blog.php:418
+msgid "Vertical Position"
+msgstr "Függőleges pozíció"
+
+#: inc/customizer/options/blog.php:393
+msgid "Image Position"
+msgstr "A kép pozíciója"
+
+#: inc/customizer/options/blog.php:486 inc/customizer/options/blog.php:2776
+#: inc/customizer/options/footer-widget.php:202
+#: inc/customizer/options/page-settings.php:387
+#: inc/customizer/options/sidebar.php:294
+#: inc/customizer/options/woocommerce.php:5701
+msgid "p"
+msgstr "p"
+
+#: inc/customizer/options/blog.php:485 inc/customizer/options/blog.php:2775
+#: inc/customizer/options/footer-widget.php:201
+#: inc/customizer/options/page-settings.php:386
+#: inc/customizer/options/sidebar.php:293
+#: inc/customizer/options/woocommerce.php:5700
+msgid "span"
+msgstr "span"
+
+#: inc/customizer/options/blog.php:484 inc/customizer/options/blog.php:2774
+#: inc/customizer/options/footer-widget.php:200
+#: inc/customizer/options/page-settings.php:385
+#: inc/customizer/options/sidebar.php:292
+#: inc/customizer/options/woocommerce.php:5699
+msgid "div"
+msgstr "div"
+
+#: inc/customizer/options/blog.php:483 inc/customizer/options/blog.php:2773
+#: inc/customizer/options/footer-widget.php:199
+#: inc/customizer/options/page-settings.php:384
+#: inc/customizer/options/sidebar.php:291
+#: inc/customizer/options/woocommerce.php:5698
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/options/blog.php:482 inc/customizer/options/blog.php:2772
+#: inc/customizer/options/footer-widget.php:198
+#: inc/customizer/options/page-settings.php:383
+#: inc/customizer/options/sidebar.php:290
+#: inc/customizer/options/woocommerce.php:5697
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/options/blog.php:481 inc/customizer/options/blog.php:2771
+#: inc/customizer/options/footer-widget.php:197
+#: inc/customizer/options/page-settings.php:382
+#: inc/customizer/options/sidebar.php:289
+#: inc/customizer/options/woocommerce.php:5696
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/options/blog.php:480 inc/customizer/options/blog.php:2770
+#: inc/customizer/options/footer-widget.php:196
+#: inc/customizer/options/page-settings.php:381
+#: inc/customizer/options/sidebar.php:288
+#: inc/customizer/options/woocommerce.php:5695
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/options/blog.php:479 inc/customizer/options/blog.php:2769
+#: inc/customizer/options/footer-widget.php:195
+#: inc/customizer/options/page-settings.php:380
+#: inc/customizer/options/sidebar.php:287
+#: inc/customizer/options/woocommerce.php:5694
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/options/blog.php:478 inc/customizer/options/blog.php:2768
+#: inc/customizer/options/footer-widget.php:194
+#: inc/customizer/options/page-settings.php:379
+#: inc/customizer/options/sidebar.php:286
+#: inc/customizer/options/woocommerce.php:5693
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/options/blog.php:469
+#: inc/customizer/options/footer-widget.php:184
+#: inc/customizer/options/page-settings.php:369
+#: inc/customizer/options/sidebar.php:277
+msgid "Heading Tag"
+msgstr "Fejrész összetevő"
+
+#: inc/customizer/options/blog.php:105 inc/customizer/options/blog.php:1997
+#: inc/customizer/options/edd.php:1004 inc/customizer/options/edd.php:2261
+#: inc/customizer/options/learndash.php:134
+#: inc/customizer/options/learndash.php:295
+#: inc/customizer/options/learndash.php:456
+#: inc/customizer/options/lifterlms.php:272
+#: inc/customizer/options/lifterlms.php:433
+#: inc/customizer/options/lifterlms.php:594
+#: inc/customizer/options/page-settings.php:162
+#: inc/customizer/options/page-settings.php:2190
+#: inc/customizer/options/woocommerce.php:1931
+#: inc/customizer/options/woocommerce.php:5376
+msgid "Both Sidebars: Content Width"
+msgstr "Mindkét oldalsáv: tartalom szélessége (%)"
+
+#: inc/customizer/options/blog.php:100 inc/customizer/options/blog.php:1992
+#: inc/customizer/options/edd.php:999 inc/customizer/options/edd.php:2256
+#: inc/customizer/options/learndash.php:129
+#: inc/customizer/options/learndash.php:290
+#: inc/customizer/options/learndash.php:451
+#: inc/customizer/options/lifterlms.php:267
+#: inc/customizer/options/lifterlms.php:428
+#: inc/customizer/options/lifterlms.php:589
+#: inc/customizer/options/page-settings.php:157
+#: inc/customizer/options/page-settings.php:2177
+#: inc/customizer/options/woocommerce.php:1926
+#: inc/customizer/options/woocommerce.php:5371
+msgid "Content / Sidebar / Sidebar"
+msgstr "Tartalom / Oldalsáv / Oldalsáv"
+
+#: inc/customizer/options/blog.php:99 inc/customizer/options/blog.php:1991
+#: inc/customizer/options/edd.php:998 inc/customizer/options/edd.php:2255
+#: inc/customizer/options/learndash.php:128
+#: inc/customizer/options/learndash.php:289
+#: inc/customizer/options/learndash.php:450
+#: inc/customizer/options/lifterlms.php:266
+#: inc/customizer/options/lifterlms.php:427
+#: inc/customizer/options/lifterlms.php:588
+#: inc/customizer/options/page-settings.php:156
+#: inc/customizer/options/page-settings.php:2176
+#: inc/customizer/options/woocommerce.php:1925
+#: inc/customizer/options/woocommerce.php:5370
+msgid "Sidebar / Content / Sidebar"
+msgstr "Oldalsáv / Tartalom / Oldalsáv"
+
+#: inc/customizer/options/blog.php:98 inc/customizer/options/blog.php:1990
+#: inc/customizer/options/edd.php:997 inc/customizer/options/edd.php:2254
+#: inc/customizer/options/learndash.php:127
+#: inc/customizer/options/learndash.php:288
+#: inc/customizer/options/learndash.php:449
+#: inc/customizer/options/lifterlms.php:265
+#: inc/customizer/options/lifterlms.php:426
+#: inc/customizer/options/lifterlms.php:587
+#: inc/customizer/options/page-settings.php:155
+#: inc/customizer/options/page-settings.php:2175
+#: inc/customizer/options/woocommerce.php:1924
+#: inc/customizer/options/woocommerce.php:5369
+msgid "Sidebar / Sidebar / Content"
+msgstr "Oldalsáv / Oldalsáv / Tartalom"
+
+#: inc/customizer/options/edd.php:987 inc/customizer/options/edd.php:2244
+#: inc/customizer/options/learndash.php:117
+#: inc/customizer/options/learndash.php:278
+#: inc/customizer/options/learndash.php:439
+#: inc/customizer/options/lifterlms.php:255
+#: inc/customizer/options/lifterlms.php:416
+#: inc/customizer/options/lifterlms.php:577
+#: inc/customizer/options/woocommerce.php:1914
+#: inc/customizer/options/woocommerce.php:5359
+msgid "Both Sidebars: Style"
+msgstr "Mindkét oldalsáv: Stílus"
+
+#: inc/customizer/options/page-settings.php:566
+msgid "Title / Breadcrumbs Position"
+msgstr "Cím/breadcrumb pozíció"
+
+#: inc/customizer/options/blog.php:765
+#: inc/customizer/options/woocommerce.php:5212
+msgid "Infinite Scroll: Error Text"
+msgstr "Infinite Scroll: hiba szöveg"
+
+#: inc/helpers.php:4004
+msgid "Vortex Reverse"
+msgstr "Örvény ellentétesen"
+
+#: inc/helpers.php:4002
+msgid "Squeeze"
+msgstr "Összenyomás"
+
+#: inc/helpers.php:3998
+msgid "Spring"
+msgstr "Rugózás"
+
+#: inc/helpers.php:3999
+msgid "Spring Reverse"
+msgstr "Ellentétes rugózás"
+
+#: inc/helpers.php:3996
+msgid "Spin"
+msgstr "Forgás"
+
+#: inc/helpers.php:3997
+msgid "Spin Reverse"
+msgstr "Ellentétes forgás"
+
+#: inc/helpers.php:3994
+msgid "Slider"
+msgstr "Csúszó"
+
+#: inc/helpers.php:3995
+msgid "Slider Reverse"
+msgstr "Ellentétesen csúszó"
+
+#: inc/helpers.php:3991
+msgid "Elastic"
+msgstr "Rugalmas"
+
+#: inc/helpers.php:3992
+msgid "Elastic Reverse"
+msgstr "Ellentétesen rugalmas"
+
+#: inc/helpers.php:3989
+msgid "Collapse"
+msgstr "Összeomlás"
+
+#: inc/helpers.php:3990
+msgid "Collapse Reverse"
+msgstr "Ellentétes összeomlás"
+
+#: inc/helpers.php:3993
+msgid "Minus"
+msgstr "Mínusz"
+
+#: inc/helpers.php:3980
+msgid "3D XY"
+msgstr "3D XY"
+
+#: inc/helpers.php:3981
+msgid "3D XY Reverse"
+msgstr "3D XY ellentétesen"
+
+#: inc/customizer/options/woocommerce.php:8494
+#: inc/customizer/options/woocommerce.php:8495 inc/helpers.php:3982
+msgid "Arrow"
+msgstr "Nyíl"
+
+#: inc/helpers.php:3983
+msgid "Arrow Reverse"
+msgstr "Nyíl ellentétesen"
+
+#: inc/helpers.php:3988
+msgid "Boring"
+msgstr "Fúrás"
+
+#: inc/helpers.php:3986
+msgid "Arrowturn"
+msgstr "Nyílforgás"
+
+#: inc/helpers.php:3987
+msgid "Arrowturn Reverse"
+msgstr "Nyílforgás ellentétesen"
+
+#: inc/helpers.php:3978
+msgid "3D Y"
+msgstr "3D Y"
+
+#: inc/helpers.php:3979
+msgid "3D Y Reverse"
+msgstr "3D Y ellentétesen"
+
+#: inc/helpers.php:3977
+msgid "3D X Reverse"
+msgstr "3D X ellentétesen"
+
+#: inc/helpers.php:4003
+msgid "Vortex"
+msgstr "Örvény"
+
+#: inc/helpers.php:3976
+msgid "3D X"
+msgstr "3D X"
+
+#: inc/customizer/options/header.php:3163
+msgid "Backlighting"
+msgstr "Hátsó fény"
+
+#: inc/customizer/options/header.php:3162
+msgid "Underline & Overline"
+msgstr "Aláhúzás és áthúzás"
+
+#: inc/customizer/options/header.php:3160
+msgid "Tripple Dot Under"
+msgstr "Alsó pont-pont-pont"
+
+#: inc/helpers.php:3975
+msgid "Default Icon"
+msgstr "Alapikon"
+
+#: inc/customizer/options/header.php:5770 inc/helpers.php:4056
+#: partials/mobile/mobile-dropdown.php:72 partials/mobile/mobile-icon.php:45
+#: inc/customizer/assets/dist/index.js:1 inc/customizer/assets/dist/index.js:3
+msgid "Close"
+msgstr "Bezárni"
+
+#: inc/customizer/options/header.php:5766
+msgid "Close Menu Text"
+msgstr "Bezárni a menüt"
+
+#: inc/customizer/options/header.php:355
+msgid "Top Menu Header Settings"
+msgstr "Felső menü fejrész beállítása"
+
+#: inc/customizer/options/header.php:626
+msgid "Medium Header Settings"
+msgstr "Középső fejrész beállítása"
+
+#: inc/customizer/options/header.php:381
+msgid "Full Screen Header Settings"
+msgstr "Teljes képernyős fejrész beállítása"
+
+#: inc/customizer/options/header.php:3154
+msgid "Underline From Left"
+msgstr "Aláhúzás balról"
+
+#: inc/customizer/options/header.php:3157
+msgid "Brackets"
+msgstr "Zárójelek"
+
+#: inc/customizer/options/header.php:3156
+msgid "Underline Down"
+msgstr "Alsóvonal alul"
+
+#: inc/customizer/options/header.php:3155
+msgid "Underline Up"
+msgstr "Felsővonal"
+
+#: inc/customizer/helpers.php:270
+msgid "All Post Types"
+msgstr "Összes bejegyzéstípus"
+
+#: inc/customizer/options/header.php:3169
+#: inc/customizer/options/header.php:3197
+msgid "Links Effect Color"
+msgstr "Hivatkozási effektus: Szín"
+
+#: inc/customizer/options/header.php:3153
+msgid "No Effect"
+msgstr "Nincs effektus"
+
+#: inc/customizer/options/header.php:3144
+msgid "Link Effects"
+msgstr "Hivatkozási effektus"
+
+#. translators: 1: Admin URL 2: </a>
+#: partials/none.php:17
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "Készen van az első üzenetének publikálására? %1$sKezdje itt%2$s."
+
+#: inc/walker/init.php:71
+msgid "Template"
+msgstr "Sablon"
+
+#: inc/customizer/options/header.php:5532
+msgid "Dropdown Max Height (px)"
+msgstr "Lenyíló maximális magassága (px)"
+
+#: inc/customizer/options/header.php:5799
+msgid "Mobile Menu Styling"
+msgstr "Mobiltelefon menü stílusa"
+
+#: inc/customizer/options/header.php:5236
+msgid "From 320px"
+msgstr "320px-től"
+
+#: inc/customizer/options/header.php:5234
+msgid "From 767px"
+msgstr "797px-től"
+
+#: inc/customizer/options/header.php:5233
+msgid "From 959px"
+msgstr "959px-től"
+
+#: inc/customizer/options/header.php:5235
+msgid "From 480px"
+msgstr "480px-től"
+
+#: inc/customizer/options/header.php:5232
+msgid "From 1080px"
+msgstr "1080px-től"
+
+#: inc/customizer/options/header.php:5231
+msgid "From 1280px"
+msgstr "1280px-től"
+
+#: inc/customizer/options/header.php:5221
+msgid "Breakpoints"
+msgstr "Töréspontok"
+
+#: inc/customizer/options/footer-widget.php:268
+#: inc/customizer/options/header.php:113 inc/customizer/options/header.php:4588
+#: inc/customizer/options/header.php:5165
+#: inc/customizer/options/page-settings.php:2479
+#: inc/customizer/options/topbar.php:279 inc/customizer/options/topbar.php:621
+msgid "Select Template"
+msgstr "Sablon választása"
+
+#. Theme Name of the theme
+#. Author of the theme
+#: style.css inc/helpers.php:3930 inc/helpers.php:4995 inc/helpers.php:5013
+#: inc/helpers.php:5014
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#: comments.php:68
+msgid "This Post Has One Comment"
+msgstr "Ehhez a poszthoz egy hozzászólás tartozik"
+
+#: 404.php:118
+msgid "Back To Homepage"
+msgstr "Vissza a főoldalra"
+
+#: 404.php:116
+msgid "Perhaps you can try a new search."
+msgstr "Próbálkozzunk új kereséssel."
+
+#: 404.php:116
+msgid "We are sorry. But the page you are looking for is not available."
+msgstr "Sajnáljuk. A keresett oldal nem elérhető."
+
+#: 404.php:115
+msgid "This page could not be found!"
+msgstr "Az oldal nem található!"
+
+#: functions.php:314
+msgid "Main"
+msgstr "Elsődleges"
+
+#: functions.php:313 inc/customizer/options/options.php:34
+#: inc/themepanel/views/panes/home.php:42 inc/third/class-beaver-themer.php:100
+msgid "Top Bar"
+msgstr "Felső sáv"
+
+#: inc/oceanwp-strings.php:83
+msgid "Post Comment"
+msgstr "Bejegyzés hozzászólás"
+
+#: inc/oceanwp-strings.php:81
+msgid "Your comment here..."
+msgstr "Hozzászólásod helye..."
+
+#: comments.php:41
+msgid "Log out &raquo;"
+msgstr "Kilépés &raquo;"
+
+#: inc/oceanwp-strings.php:80
+msgid "Log out of this account"
+msgstr "Kilépés a fiókból"
+
+#: comments.php:41
+msgid "Logged in as"
+msgstr "Bejelentkezve mint"
+
+#. translators: 1: logged in to comment
+#: comments.php:40
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "A hozzászóláshoz %1$sbe kell jelentkezned%2$s."
+
+#: inc/oceanwp-strings.php:88
+msgid "Website"
+msgstr "Weblap"
+
+#: inc/oceanwp-strings.php:85
+msgid "Email (required)"
+msgstr "Email (kötelező)"
+
+#: inc/oceanwp-strings.php:84
+msgid "Name (required)"
+msgstr "Név (kötelező)"
+
+#: comments.php:129
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+#: comments.php:104 comments.php:117 inc/woocommerce/woocommerce-config.php:855
+#: partials/edd/single.php:54
+#: woocommerce/checkout/form-multistep-checkout.php:97
+msgid "Next"
+msgstr "Következő"
+
+#: comments.php:103 comments.php:116 partials/edd/single.php:53
+msgid "Previous"
+msgstr "Előző"
+
+#. translators: %s: Comments number
+#: comments.php:71
+msgid "This Post Has %s Comments"
+msgstr "A bejegyzéshez %s hozzászólás tartozik"
+
+#: inc/breadcrumbs.php:446
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Kenyérmorzsák"
+
+#: functions.php:809
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr "Oldalsávok a lábléc negyedik részébe."
+
+#: functions.php:807
+msgid "Footer 4"
+msgstr "Lábléc 4"
+
+#: functions.php:796
+msgid "Widgets in this area are used in the third footer region."
+msgstr "Oldalsávok a lábléc harmadik részébe."
+
+#: functions.php:794
+msgid "Footer 3"
+msgstr "Lábléc 3"
+
+#: functions.php:783
+msgid "Widgets in this area are used in the second footer region."
+msgstr "Oldalsávok a lábléc második részébe."
+
+#: functions.php:781
+msgid "Footer 2"
+msgstr "Lábléc 2"
+
+#: functions.php:770
+msgid "Widgets in this area are used in the first footer region."
+msgstr "Oldalsávok a lábléc első részébe."
+
+#: functions.php:768
+msgid "Footer 1"
+msgstr "Lábléc 1"
+
+#: functions.php:756
+msgid "Widgets in this area are used in the search result page."
+msgstr "Oldalsávok a keresési eredmények oldalára."
+
+#: functions.php:754
+msgid "Search Results Sidebar"
+msgstr "Keresési eredmények oldalsáv"
+
+#: inc/customizer/options/header.php:5285 inc/customizer/options/options.php:49
+#: inc/third/class-beaver-themer.php:136
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: functions.php:316
+msgid "Mobile (optional)"
+msgstr "Mobil (opcionális)"
+
+#: functions.php:315 inc/third/class-beaver-themer.php:145
+msgid "Footer"
+msgstr "Lábléc"
+
+#: inc/breadcrumbs.php:447 inc/customizer/options/page-settings.php:1787
+#: inc/themepanel/theme-panel.php:405
+msgid "Home"
+msgstr "Főoldal"
+
+#: inc/breadcrumbs.php:448 inc/customizer/options/page-settings.php:1976
+msgid "404 Not Found"
+msgstr "404 Nem található"
+
+#: inc/breadcrumbs.php:449 inc/customizer/options/edd.php:938
+#: inc/customizer/options/woocommerce.php:1845
+msgid "Archives"
+msgstr "Archív"
+
+#: inc/oceanwp-strings.php:90 inc/oceanwp-strings.php:91
+#: partials/edd/single.php:57
+msgid "Continue Reading"
+msgstr "Tovább olvasom"
+
+#: inc/customizer/options/blog.php:1425 inc/customizer/options/blog.php:1718
+#: inc/helpers.php:3118
+msgid "Read More"
+msgstr "Tovább olvasom"
+
+#: woocommerce/result-count.php:66
+msgid "All"
+msgstr "Összes"
+
+#: woocommerce/result-count.php:63
+msgid "View:"
+msgstr "Nézet:"
+
+#: partials/entry/meta.php:55 partials/entry/thumbnail-style/comments.php:17
+#: partials/single/meta.php:71 partials/single/metas/meta-2.php:65
+#: partials/single/metas/meta-3.php:65 partials/single/metas/meta-4.php:67
+msgid "% Comments"
+msgstr "% Hozzászólás"
+
+#: inc/oceanwp-strings.php:76 inc/oceanwp-strings.php:77
+#: inc/customizer/assets/js/customize-search.js:2
+msgid "Search..."
+msgstr "Keresés..."
+
+#: partials/none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Sajnáljuk, de a keresési kifejezések nem felelnek meg. Kérjük, próbálkozzék újra más kulcsszavakkal."
+
+#: inc/helpers.php:2246
+msgid "You searched for:"
+msgstr "Ön a következőre keresett rá:"
+
+#: inc/oceanwp-strings.php:56 inc/oceanwp-strings.php:59
+#: inc/customizer/assets/js/customize-search.js:2
+msgid "Search"
+msgstr "Keresés"
+
+#: inc/oceanwp-strings.php:73
+msgid "Type your search"
+msgstr "Írd be amit keresel"
+
+#: inc/helpers.php:2138
+msgid "Search Results Found"
+msgstr "Találat van a keresésre"
+
+#: inc/helpers.php:2125
+msgid "Recent Posts"
+msgstr "Legfrissebb bejegyzések"
+
+#: partials/entry/meta.php:55 partials/entry/thumbnail-style/comments.php:17
+#: partials/single/meta.php:71 partials/single/metas/meta-2.php:65
+#: partials/single/metas/meta-3.php:65 partials/single/metas/meta-4.php:67
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: partials/entry/meta.php:55 partials/entry/thumbnail-style/comments.php:17
+#: partials/single/meta.php:71 partials/single/metas/meta-2.php:65
+#: partials/single/metas/meta-3.php:65 partials/single/metas/meta-4.php:67
+msgid "0 Comments"
+msgstr "0 hozzászólás"
+
+#: inc/helpers.php:3406
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólása moderálásra vár."
+
+#. Author URI of the theme
+#: style.css
+msgid "https://oceanwp.org/about-oceanwp/"
+msgstr "https://oceanwp.org/about-me/"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
